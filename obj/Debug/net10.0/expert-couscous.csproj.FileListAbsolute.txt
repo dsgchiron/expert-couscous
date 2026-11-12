@@ -1,0 +1,15 @@
+/workspaces/expert-couscous/bin/Debug/net10.0/expert-couscous
+/workspaces/expert-couscous/bin/Debug/net10.0/expert-couscous.deps.json
+/workspaces/expert-couscous/bin/Debug/net10.0/expert-couscous.runtimeconfig.json
+/workspaces/expert-couscous/bin/Debug/net10.0/expert-couscous.dll
+/workspaces/expert-couscous/bin/Debug/net10.0/expert-couscous.pdb
+/workspaces/expert-couscous/obj/Debug/net10.0/expert-couscous.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/expert-couscous/obj/Debug/net10.0/expert-couscous.AssemblyInfoInputs.cache
+/workspaces/expert-couscous/obj/Debug/net10.0/expert-couscous.AssemblyInfo.cs
+/workspaces/expert-couscous/obj/Debug/net10.0/expert-couscous.csproj.CoreCompileInputs.cache
+/workspaces/expert-couscous/obj/Debug/net10.0/expert-couscous.sourcelink.json
+/workspaces/expert-couscous/obj/Debug/net10.0/expert-couscous.dll
+/workspaces/expert-couscous/obj/Debug/net10.0/refint/expert-couscous.dll
+/workspaces/expert-couscous/obj/Debug/net10.0/expert-couscous.pdb
+/workspaces/expert-couscous/obj/Debug/net10.0/expert-couscous.genruntimeconfig.cache
+/workspaces/expert-couscous/obj/Debug/net10.0/ref/expert-couscous.dll
